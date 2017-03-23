@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{48AD1C7E-E7A5-49E4-826F-74E5773F8A8C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NavigationBackMVVM/ViewModel/VMNavigation01.cs">
+    <Files>
+      <File FileName="NavigationBackMVVM/ViewModel/VMNavigation01.cs" Line="10" Column="1" />
+      <File FileName="NavigationBackMVVM/ViewModel/VMBase.cs" Line="16" Column="10" />
+      <File FileName="NavigationBackMVVM/Interfaces/INavigationService.cs" Line="20" Column="2" />
+      <File FileName="NavigationBackMVVM/ViewModel/VMNavigation02.cs" Line="15" Column="6" />
+      <File FileName="NavigationBackMVVM/View/VPage01.cs" Line="1" Column="1" />
+      <File FileName="NavigationBackMVVM/View/Page02.cs" Line="1" Column="1" />
+      <File FileName="NavigationBackMVVM/View/VPage01.xaml.cs" Line="13" Column="1" />
+      <File FileName="NavigationBackMVVM/View/VPage02.xaml.cs" Line="12" Column="1" />
+      <File FileName="NavigationBackMVVM/NavigationBackMVVM.cs" Line="14" Column="58" />
+      <File FileName="NavigationBackMVVM/Interfaces/NavigationService.cs" Line="42" Column="10" />
+      <File FileName="NavigationBackMVVM/obj/Debug/NavigationBackMVVM.View.VPage01.xaml.g.cs" Line="21" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NavigationBackMVVM.Droid PreferredExecutionTarget="Android.Nexus" />
+  <MonoDevelop.Ide.ItemProperties.NavigationBackMVVM.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.261389ED-0CA2-4FB4-9902-449A9252A422" />
+  <MultiItemStartupConfigurations />
+</Properties>
